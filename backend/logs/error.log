@@ -1,0 +1,15 @@
+[2025-06-28 19:20:54] ERROR: Erro ao atualizar pilotos - erro: equipe is not defined
+[2025-06-29 00:25:32] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: redisClient is not defined
+[2025-06-29 00:25:32] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: redisClient is not defined
+[2025-06-29 00:26:03] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:07] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:07] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:33] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: Cannot access 'pilotos' before initialization
+[2025-06-29 00:26:33] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: Cannot access 'pilotos' before initialization
+[2025-06-29 00:31:25] ERROR: Erro ao atualizar pilotos - erro: equipe is not defined
+[2025-06-29 20:22:20] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 20:22:27] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 20:22:44] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 21:11:39] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined
+[2025-06-29 21:12:47] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined
+[2025-06-29 21:13:49] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined

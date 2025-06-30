@@ -1,0 +1,365 @@
+[2025-06-28 19:18:18] INFO: Usuário criado com sucesso: 1 - : joao@gmail.com
+[2025-06-28 19:18:20] WARN: Tentativa de criação de usuário duplicado: joao@gmail.com
+[2025-06-28 19:18:38] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-28 19:19:26] INFO: Usuário criado com sucesso: 1 - : joao@gmail.com
+[2025-06-28 19:19:40] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-28 19:19:50] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-28 19:19:50] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-28 19:19:50] INFO: Busca de 0 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-28 19:19:50] INFO: Busca de 0 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-28 19:20:17] INFO: Piloto criado com sucesso: Max
+[2025-06-28 19:20:54] ERROR: Erro ao atualizar pilotos - erro: equipe is not defined
+[2025-06-28 19:21:30] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 00:12:06] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:12:06] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:25:32] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: redisClient is not defined
+[2025-06-29 00:25:32] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: redisClient is not defined
+[2025-06-29 00:26:03] INFO: Busca de 1 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:26:03] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:07] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:07] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: circuitos is not defined
+[2025-06-29 00:26:33] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: Cannot access 'pilotos' before initialization
+[2025-06-29 00:26:33] ERROR: Erro ao buscar pilotos na temportada: 2025 - erro: Cannot access 'pilotos' before initialization
+[2025-06-29 00:27:02] INFO: Dados de busca em cache de 199 pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:27:02] INFO: Dados de busca em cache de 199 pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:27:05] INFO: Dados de busca em cache de 199 pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:27:05] INFO: Dados de busca em cache de 199 pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:56] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:56] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:57] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:28:57] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:58] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:58] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:28:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:00] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:00] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:01] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:01] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:49] INFO: Circuito criado com sucesso: kkkk
+[2025-06-29 00:29:49] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:49] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:50] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:50] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:51] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:51] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:54] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:54] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:58] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:58] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:29:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:15] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:15] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:16] INFO: Busca de 1 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:16] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:18] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:18] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:19] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:19] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:20] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:20] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:20] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:20] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:23] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:25] ERROR: Erro ao atualizar pilotos - erro: equipe is not defined
+[2025-06-29 00:31:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:51] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:51] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:31:52] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 00:31:58] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 00:31:58] INFO: Busca de 1 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:31:58] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:00] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:00] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:01] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:02] INFO: Edição de pontos na [object SequelizeInstance:Equipe] efetuada com sucesso.
+[2025-06-29 00:32:08] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:08] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:09] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:09] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:10] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:32:10] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:41:58] WARN: Tentativa com dados invalidos: joao@gmail.com
+[2025-06-29 00:42:02] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 00:42:02] INFO: Busca de 1 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 00:42:02] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:46:12] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 00:46:12] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 19:55:41] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 19:55:41] INFO: Busca de 1 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 19:55:41] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 19:55:45] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 19:55:45] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:07:09] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:07:28] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:07:45] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:09:06] INFO: Busca de 1 equipes efetuadas com sucesso na temporada: undefined
+[2025-06-29 20:09:12] INFO: Busca de 1 pilotos efetuadas com sucesso na temporada: undefined
+[2025-06-29 20:09:52] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:10:44] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:11:44] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:12:45] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:13:44] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:14:13] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:15:30] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:16:04] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:17:13] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:18:14] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 20:18:36] INFO: Piloto criado com sucesso: aaaassss
+[2025-06-29 20:18:36] INFO: Busca de 2 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:18:36] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:20:29] INFO: Piloto criado com sucesso: max
+[2025-06-29 20:20:29] INFO: Busca de 3 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:20:29] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:21:45] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 20:21:45] INFO: Busca de 2 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:21:45] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:21:55] WARN: Campos na criação de circuitos faltando.
+[2025-06-29 20:22:20] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 20:22:27] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 20:22:44] ERROR: Erro ao criar circuito: abc - erro: temporada is not defined
+[2025-06-29 20:23:45] INFO: Circuito criado com sucesso: abc
+[2025-06-29 20:23:45] INFO: Busca de 5 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:23:45] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:03] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:03] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:16] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 20:31:16] INFO: Busca de 3 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:31:16] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:19] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:19] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:20] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:20] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:20] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:23] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:31:23] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:34:38] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:34:38] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:36:10] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 20:36:10] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:36:10] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:45:02] INFO: Usuário criado com sucesso: 1 - : joao@gmail.com
+[2025-06-29 20:50:47] INFO: Circuito criado com sucesso: Silverstone
+[2025-06-29 20:50:53] INFO: Busca de 1 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:50:53] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:51:15] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:51:15] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:52:04] INFO: Circuito criado com sucesso: Monte Carlo
+[2025-06-29 20:52:09] INFO: Circuito criado com sucesso: Monza
+[2025-06-29 20:52:15] INFO: Circuito criado com sucesso: Marina Bay
+[2025-06-29 20:52:20] INFO: Circuito criado com sucesso: Suzuka
+[2025-06-29 20:52:25] INFO: Circuito criado com sucesso: Circuit Gilles Villeneuve
+[2025-06-29 20:52:30] INFO: Circuito criado com sucesso: Spa-Francorchamps
+[2025-06-29 20:52:35] INFO: Circuito criado com sucesso: Albert Park
+[2025-06-29 20:52:40] INFO: Circuito criado com sucesso: Red Bull Ring
+[2025-06-29 20:52:47] INFO: Circuito criado com sucesso: Circuit of the Americas
+[2025-06-29 20:52:50] INFO: Busca de 10 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:52:50] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:52:59] INFO: Busca de 0 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:52:59] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:53:00] INFO: Busca de 0 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 20:53:00] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:53:59] INFO: Circuito criado com sucesso: Monza
+[2025-06-29 20:54:05] INFO: Circuito criado com sucesso: Suzuka
+[2025-06-29 20:54:14] INFO: Circuito criado com sucesso: Spa-Francorchamps
+[2025-06-29 20:54:18] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:18] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:21] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:21] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:24] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:24] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:29] INFO: Busca de 3 circuitos efetuados com sucesso na temporada: 2024
+[2025-06-29 20:54:33] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:37] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:54:37] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 20:55:25] INFO: Circuito criado com sucesso: Albert Park
+[2025-06-29 20:55:25] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:55:25] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:55:28] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2024
+[2025-06-29 20:55:36] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:56:03] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:56:03] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:56:07] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2024
+[2025-06-29 20:56:36] INFO: Busca de 0 circuitos efetuados com sucesso na temporada: 2023
+[2025-06-29 20:56:38] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2024
+[2025-06-29 20:56:45] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:57:46] INFO: Circuito criado com sucesso: Interlagos
+[2025-06-29 20:57:46] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:57:46] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:59:24] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 20:59:25] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:02:08] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:03:52] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:08] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:15] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:20] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:25] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:31] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:49] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:04:55] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:02] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:11] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:16] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:21] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:27] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:34] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:41] INFO: Busca de 8 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:05:41] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:05:58] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:05:58] INFO: Busca de 9 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:05:58] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:06:09] INFO: Busca de 7 equipes efetuadas com sucesso na temporada: 2024
+[2025-06-29 21:06:11] INFO: Busca de 0 pilotos efetuadas com sucesso na temporada: 2024
+[2025-06-29 21:06:11] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2024
+[2025-06-29 21:07:02] WARN: Campos na criação de pilotos faltando ou inválidos.
+[2025-06-29 21:07:48] INFO: Piloto criado com sucesso: Max Verstappen
+[2025-06-29 21:07:56] INFO: Piloto criado com sucesso: Lewis Hamilton
+[2025-06-29 21:08:04] INFO: Piloto criado com sucesso: Charles Leclerc
+[2025-06-29 21:08:10] INFO: Piloto criado com sucesso: Lando Norris
+[2025-06-29 21:08:16] INFO: Piloto criado com sucesso: Fernando Alonso
+[2025-06-29 21:08:21] INFO: Piloto criado com sucesso: George Russell
+[2025-06-29 21:08:27] INFO: Piloto criado com sucesso: Sergio Pérez
+[2025-06-29 21:08:37] INFO: Piloto criado com sucesso: Esteban Ocon
+[2025-06-29 21:08:45] INFO: Piloto criado com sucesso: Pierre Gasly
+[2025-06-29 21:08:52] INFO: Piloto criado com sucesso: Valtteri Bottas
+[2025-06-29 21:09:16] INFO: Piloto criado com sucesso: Charles Leclerc
+[2025-06-29 21:09:27] INFO: Piloto criado com sucesso: George Russell
+[2025-06-29 21:09:31] INFO: Busca de 10 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:09:31] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:09:35] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:09:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:09:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:39] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:41] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:41] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:43] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:45] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:45] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:48] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:49] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:50] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:55] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:57] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:58] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:10:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:10:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:02] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:11:03] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:03] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:05] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:05] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:34] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:34] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:35] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:35] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:11:39] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined
+[2025-06-29 21:12:47] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined
+[2025-06-29 21:13:49] ERROR: Erro ao atualizar pilotos - erro: temporada is not defined
+[2025-06-29 21:14:55] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:14:57] INFO: Busca de 10 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:14:57] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:14:58] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:15:02] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:02] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:04] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:15:05] INFO: Busca de 10 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:15:05] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:06] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:15:50] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:50] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:53] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:53] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:15:57] INFO: Edição de pontos na [object SequelizeInstance:Equipe] efetuada com sucesso.
+[2025-06-29 21:15:59] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:16:00] INFO: Busca de 9 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:16:00] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:16:03] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:16:03] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:16:06] INFO: Edição de pontos na [object SequelizeInstance:Equipe] efetuada com sucesso.
+[2025-06-29 21:16:08] INFO: Busca de 9 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:16:08] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:17:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:17:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:17:28] INFO: Logout realizado com sucesso e token adicionado a blacklist: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzUxMjQwMTcwLCJleHAiOjE3NTEyNDM3NzB9.ZzpFeHdkVA_OZo8avIZrrKzAR2WrsYHv9VmWSjuz8a8
+[2025-06-29 21:17:44] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 21:17:44] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:17:44] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:18:17] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:18:17] INFO: Busca de 10 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:18:17] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:05] INFO: Logout realizado com sucesso e token adicionado a blacklist: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzUxMjQyNjY0LCJleHAiOjE3NTEyNDYyNjR9.qn4_gt0erNq-PCT4swlO87oPx_MKIqxZQP9VARJuaAI
+[2025-06-29 21:24:19] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:19] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:20] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:20] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:21] INFO: Busca de 11 circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:21] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:22] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:22] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:22] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:23] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:23] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:23] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:23] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:34] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:24:34] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:26] INFO: Busca de 10 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:33:26] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:31] INFO: Busca de 10 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:33:31] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:32] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:32] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:33] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:33] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:33] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:33] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:34] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:34] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:44] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:33:44] INFO: Dados de busca em cache de circuitos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:34:36] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 21:34:36] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:34:36] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:34:40] INFO: Busca de 2 pilotos efetuadas com sucesso na temporada: 2024
+[2025-06-29 21:34:43] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2024
+[2025-06-29 21:34:43] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2024
+[2025-06-29 21:34:47] INFO: Edição de pontos no [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:34:50] INFO: Busca de 2 pilotos efetuadas com sucesso na temporada: 2024
+[2025-06-29 21:34:50] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2024
+[2025-06-29 21:34:51] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:35:26] INFO: Logout realizado com sucesso e token adicionado a blacklist: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzUxMjQzNjc2LCJleHAiOjE3NTEyNDcyNzZ9.6XEvhcHKTsbuDOafiUpIKGuiR4mbd1pOuzEZ_d4TF5o
+[2025-06-29 21:42:27] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:42:27] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:42:39] INFO: Busca do piloto: [object SequelizeInstance:Piloto] efetuada com sucesso.
+[2025-06-29 21:42:49] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:42:49] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:42:50] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:42:50] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:20] INFO: Usuário logado com sucesso: joao@gmail.com
+[2025-06-29 21:43:20] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:20] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:23] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:23] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:24] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:25] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:25] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:43:25] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:02] INFO: Equipe criada com sucesso: [object SequelizeInstance:Equipe]
+[2025-06-29 21:44:02] INFO: Busca de 11 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:44:02] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:06] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:06] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:15] INFO: Edição de pontos na [object SequelizeInstance:Equipe] efetuada com sucesso.
+[2025-06-29 21:44:17] INFO: Busca de 11 equipes efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:44:18] INFO: Dados de busca em cache de equipes efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:32] INFO: Busca de 10 pilotos efetuadas com sucesso na temporada: 2025
+[2025-06-29 21:44:32] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:33] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025
+[2025-06-29 21:44:33] INFO: Dados de busca em cache de pilotos efetuados com sucesso na temporada: 2025

@@ -1,0 +1,11 @@
+.info{
+  margin-left: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.createForms{
+  display: flex;
+}

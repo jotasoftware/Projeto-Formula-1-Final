@@ -1,0 +1,54 @@
+.formDiv{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 5%;
+    gap: 15px;
+}
+
+.divForm {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    width: 300px;
+    margin-inline: auto;
+}
+
+.divForm input {
+    padding: 0.75rem 1rem;
+    font-size: 1.3rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.2s ease;
+}
+
+.divForm input:focus {
+    border-color: #d91414;
+    box-shadow: 0 0 0 2px rgba(217, 20, 20, 0.2);
+}
+
+.divForm button {
+    padding: 0.75rem 1rem;
+    font-size: 1.3rem;
+    background-color: #d91414;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.divForm button:hover {
+    background-color: #a00c0c;
+}
+
+.erroLogin {
+    color: red;
+    margin-top: 1rem;
+    text-align: center;
+}
+  
